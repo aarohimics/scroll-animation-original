@@ -45,3 +45,11 @@ h1 {
 .box h2 {
   font-size: 45px;
 }
+
+.blue {
+  background-color: blue;
+}
+
+.pink {
+  background-color: pink;
+}
