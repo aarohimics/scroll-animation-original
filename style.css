@@ -45,3 +45,43 @@ h1 {
 .box h2 {
   font-size: 45px;
 }
+
+.pink {
+  background-color: rgb(249, 10, 249);
+}
+
+.skyblue {
+  background-color: rgb(61, 109, 231);
+}
+
+.yellow {
+  background-color: rgb(230, 237, 25);
+}
+
+.brickred {
+  background-color: rgb(131, 16, 16);
+}
+
+.purple {
+  background-color: rgb(111, 58, 211);
+}
+
+.gold {
+  background-color: rgb(255, 183, 0);
+}
+
+.bronze {
+  background-color: rgb(196, 160, 52);
+}
+
+.green {
+  background-color: rgb(20, 119, 20);
+}
+
+.darkblue {
+  background-color: rgb(7, 7, 74);
+}
+
+.salmon {
+  background-color: rgb(205, 106, 95);
+}
